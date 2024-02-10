@@ -1,3 +1,3 @@
 # Demo
 
-If you want to know more about me, please click here: [Homepage](https://whp22.github.io/HaopengWang-Homepage/){:target="_blank"}
+If you want to know more about me, please click here: [Homepage](https://whp22.github.io/HaopengWang-Homepage/)
